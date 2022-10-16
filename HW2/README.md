@@ -16,6 +16,6 @@ Repository URL: https://github.gatech.edu/fyuen3/cs7641/tree/main/HW2
 ## File description
 | File name                                        | Description                                                      |
 |--------------------------------------------------|------------------------------------------------------------------|
-| cs7641_assign2_neural_network_optimization.ipynb | contains codes for running analysis on the neural netwroks       |
+| cs7641_assign2_neural_network_optimization.ipynb | contains codes for running analysis on the neural networks       |
 | cs7641_assign2_optimization_problems.ipynb       | contains codes for running analysis on the optimization problems |
 | fyuen3-analysis.pdf                              | report of this assignment                                        |
